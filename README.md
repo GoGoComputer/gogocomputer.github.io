@@ -1,1 +1,1 @@
-# gogocomputer.github.io
+https://gogocomputer.github.io/
